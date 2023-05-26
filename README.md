@@ -7,13 +7,5 @@ A collection of 200 peanut balls coated with colored candies was considered. Two
 
 If you publish material using this dataset, please consider citing our companion ICPRS 2023 conference paper by using either this BiBTeX entry:
 <br/>
-@INPROCEEDINGS{VillegasJaramilloICPRS2023,
-      author = {Villegas-Jaramillo, Eduardo Jos{\'{e}} and Orozco-Alzate, Mauricio},
-       month = jul,
-       title = {Candy classification using convolutional neural networks, data augmentation and transfer learning: {A}pplication and a new public dataset},
-   booktitle = {Proc. of the 13th Int. Conf. on Pattern Recognition Systems (ICPRS 2023)},
-        year = {2023},
-       pages = {1-7},
-   publisher = {IEEE Computer Society},
-    location = {Guayaquil, Ecuador}
-}
+E.J. Villegas-Jaramillo and M. Orozco-Alzate, "Candy classification using convolutional neural networks, data augmentation and transfer learning: Application and a new public dataset," 2023 13th International Conference 
+on Pattern Recognition (ICPRS), Guayaquil, Ecuador, 2023, pp. 1-7.
