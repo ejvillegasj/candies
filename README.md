@@ -6,7 +6,7 @@ They present different problems that can arise in the manufacturing, such as cra
 A collection of 200 peanut balls coated with colored candies was considered. Two images per peanut ball were taken in order to build a balanced dataset of 400 images, in such a way that 200 of them belong to the Non-defective class and the remaining 200 belong to the Defective one. 
 
 If you publish material using this dataset, please consider citing our companion ICPRS 2023 conference paper by using either this BiBTeX entry:
-
+<br/>
 @INPROCEEDINGS{VillegasJaramilloICPRS2023,
       author = {Villegas-Jaramillo, Eduardo Jos{\'{e}} and Orozco-Alzate, Mauricio},
        month = jul,
